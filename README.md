@@ -43,8 +43,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeAlmadaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Felipe's GitHub stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlmadaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FelipeAlmadaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Felipe's GitHub stats" height="195"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FelipeAlmadaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195"/>
 </p>
 
 <p align="center">
