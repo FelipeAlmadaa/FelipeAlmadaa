@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="felipe-almada-portifolio.vercel.app">
+  <!-- ⚠️ IMPORTANTE: TROQUE O LINK ABAIXO PELO SEU LINK DO VERCEL -->
+  <a href="SEU_LINK_DO_VERCEL_AQUI">
     <img src="https://img.shields.io/badge/Visite_Meu_Portfólio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/felipe-a-s-almada">
@@ -42,12 +43,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeAlmadaa&show_icons=true&bg_color=09090b&title_color=6366f1&text_color=9ca3af&icon_color=6366f1&border_color=27272a&hide_border=false" alt="Felipe's GitHub stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlmadaa&layout=compact&bg_color=09090b&title_color=6366f1&text_color=9ca3af&icon_color=6366f1&border_color=27272a&hide_border=false" alt="Top Languages" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeAlmadaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Felipe's GitHub stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlmadaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeAlmadaa&background=09090b&border=27272a&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=9ca3af&currStreakLabel=6366f1&sideNums=9ca3af&sideLabels=6366f1&dates=9ca3af" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeAlmadaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
