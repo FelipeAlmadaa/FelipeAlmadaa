@@ -50,11 +50,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeAlmadaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### 🚀 Highlighted Projects
-
-- **[Know-Your-Fa-Furia](https://github.com/FelipeAlmadaa/Know-Your-Fa-Furia)**: Streamlit web app for registering FURIA fans, OCR document validation, and generating AI-based recommendations.
-- **[ChatBot - Furia Zone](https://github.com/FelipeAlmadaa/ChatBot-Furia-Zone)**: Interactive platform engaging FURIA fans with a dynamic chatbot environment.
-- **[Registration Form System](https://github.com/FelipeAlmadaa/Regristration-Form)**: Scalable backend system to manage application and enrollment processes.
