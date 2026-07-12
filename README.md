@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Felipe Almada 👋</h1>
 
-<h3 align="center">Computer Engineering Student | Software Engineer | DevOps & QA</h3>
+<h3 align="center">Computer Engineering | Software Engineer | DevOps & QA</h3>
 
 <p align="center">
   Passionate about building scalable systems, extracting insights from complex data, and ensuring digital system integrity. I'm currently focused on high-performance web/desktop applications and cloud architecture.
